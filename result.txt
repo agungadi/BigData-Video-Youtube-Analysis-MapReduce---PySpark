@@ -1,0 +1,10 @@
+ UNA 	2971
+Autos & Vehicles	7470
+Comedy	25400
+Education	1966
+Entertainment	67275
+Film & Animation	19388
+Howto & Style	9181
+Music	65750
+News & Politics	16107
+Nonprofits & Activism	826
